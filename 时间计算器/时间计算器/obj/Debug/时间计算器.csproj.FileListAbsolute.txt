@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\bin\Debug\时间计算器.exe.config
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\bin\Debug\时间计算器.exe
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\bin\Debug\时间计算器.pdb
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.Form1.resources
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.Properties.Resources.resources
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.exe
+C:\Users\Administrator\source\repos\时间计算器\时间计算器\obj\Debug\时间计算器.pdb
